@@ -1,0 +1,180 @@
+[
+  {
+    "id": 1,
+    "name": "Espresso",
+    "price": 120,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Tazzina_di_caff%C3%A8_a_Ventimiglia.jpg",
+    "description": "Strong and rich coffee shot made from premium beans",
+    "category": "hotcoffee"
+  },
+  {
+    "id": 2,
+    "name": "Cappuccino",
+    "price": 150,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Cappuccino_in_original.jpg/500px-Cappuccino_in_original.jpg",
+    "description": "Perfect balance of espresso, steamed milk and foam",
+    "category": "hotcoffee"
+  },
+  {
+    "id": 3,
+    "name": "Latte",
+    "price": 160,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Caffe_Latte_at_Pulse_Cafe.jpg/500px-Caffe_Latte_at_Pulse_Cafe.jpg",
+    "description": "Smooth espresso blended with creamy milk",
+    "category": "hotcoffee"
+  },
+  {
+    "id": 4,
+    "name": "Americano",
+    "price": 140,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Espresso_Americano.jpeg/500px-Espresso_Americano.jpeg",
+    "description": "Espresso diluted with hot water for a bold taste",
+    "category": "hotcoffee"
+  },
+  {
+    "id": 5,
+    "name": "Mocha",
+    "price": 170,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Mocha_coffee.jpg/500px-Mocha_coffee.jpg",
+    "description": "Espresso with chocolate and steamed milk",
+    "category": "hotcoffee"
+  },
+  {
+    "id": 6,
+    "name": "Flat White",
+    "price": 155,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Flat_white_coffee_with_pretty_feather_pattern.jpg/500px-Flat_white_coffee_with_pretty_feather_pattern.jpg",
+    "description": "Velvety smooth coffee with thin milk foam",
+    "category": "hotcoffee"
+  },
+  {
+    "id": 7,
+    "name": "Macchiato",
+    "price": 145,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Macchiato_%287199366530%29.jpg/500px-Macchiato_%287199366530%29.jpg",
+    "description": "Espresso topped with a small amount of milk foam",
+    "category": "hotcoffee"
+  },
+  {
+    "id": 8,
+    "name": "Irish Coffee",
+    "price": 190,
+    "image": "https://tarasmulticulturaltable.com/wp-content/uploads/2019/03/Irish-Coffee-2-of-3.jpg",
+    "description": "Hot coffee blended with cream and flavor notes",
+    "category": "hotcoffee"
+  },
+  {
+    "id": 9,
+    "name": "Caramel Latte",
+    "price": 175,
+    "image": "https://www.chilitochoc.com/wp-content/uploads/2022/12/homemade-caramel-latte.jpg",
+    "description": "Latte infused with rich caramel flavor",
+    "category": "hotcoffee"
+  },
+
+  {
+    "id": 10,
+    "name": "Cold Brew",
+    "price": 180,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/ColdBrewCoffeein_Cans.png/500px-ColdBrewCoffeein_Cans.png",
+    "description": "Slow brewed cold coffee with smooth flavor",
+    "category": "coldcoffee"
+  },
+  {
+    "id": 11,
+    "name": "Iced Latte",
+    "price": 165,
+    "image": "https://www.peanutbutterandfitness.com/wp-content/uploads/2023/08/Smores-Iced-Latte-Recipe-7.jpg",
+    "description": "Chilled espresso with cold milk and ice",
+    "category": "coldcoffee"
+  },
+  {
+    "id": 12,
+    "name": "Iced Mocha",
+    "price": 185,
+    "image": "https://i2.wp.com/bakingmischief.com/wp-content/uploads/2019/05/iced-mocha-picture.jpg",
+    "description": "Cold coffee mixed with chocolate syrup",
+    "category": "coldcoffee"
+  },
+  {
+    "id": 13,
+    "name": "Frappe",
+    "price": 195,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cafe-frape-glas-holztisch-unscharf.jpg/500px-Cafe-frape-glas-holztisch-unscharf.jpg",
+    "description": "Blended iced coffee with creamy texture",
+    "category": "coldcoffee"
+  },
+  {
+    "id": 14,
+    "name": "Caramel Frappe",
+    "price": 205,
+    "image": "https://www.thereciperebel.com/wp-content/uploads/2022/05/caramel-frappuccino-TRR-1200-26-of-26.jpg",
+    "description": "Cold blended coffee with caramel drizzle",
+    "category": "coldcoffee"
+  },
+  {
+    "id": 15,
+    "name": "Iced Americano",
+    "price": 155,
+    "image": "https://emilylaurae.com/wp-content/uploads/2022/09/iced-americano-6.jpg",
+    "description": "Cold version of classic Americano",
+    "category": "coldcoffee"
+  },
+  {
+    "id": 16,
+    "name": "Vanilla Cold Coffee",
+    "price": 175,
+    "image": "https://frostingandfettuccine.com/wp-content/uploads/2022/12/Vanilla-Iced-Coffee-5-683x1024.jpg",
+    "description": "Chilled coffee with vanilla flavor",
+    "category": "coldcoffee"
+  },
+
+  {
+    "id": 17,
+    "name": "Chocolate Brownie",
+    "price": 90,
+    "image": "https://icecreambakery.in/wp-content/uploads/2024/12/Brownie-Recipe-with-Cocoa-Powder.jpg",
+    "description": "Rich and fudgy chocolate brownie",
+    "category": "others"
+  },
+  {
+    "id": 18,
+    "name": "Blueberry Muffin",
+    "price": 85,
+    "image": "https://sallysbakingaddiction.com/wp-content/uploads/2019/05/best-blueberry-muffins.jpg",
+    "description": "Soft muffin filled with blueberries",
+    "category": "others"
+  },
+  {
+    "id": 19,
+    "name": "Croissant",
+    "price": 70,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Croissant-Petr_Kratochvil.jpg/500px-Croissant-Petr_Kratochvil.jpg",
+    "description": "Buttery and flaky French croissant",
+    "category": "others"
+  },
+  {
+    "id": 20,
+    "name": "Cheese Sandwich",
+    "price": 110,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Cheese_roll_at_The_Original_Tea_Hut_at_High_Beach%2C_Essex%2C_England.jpg/500px-Cheese_roll_at_The_Original_Tea_Hut_at_High_Beach%2C_Essex%2C_England.jpg",
+    "description": "Grilled sandwich loaded with cheese",
+    "category": "others"
+  },
+  {
+    "id": 21,
+    "name": "Garlic Bread",
+    "price": 95,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Garlicbread.jpg/500px-Garlicbread.jpg",
+    "description": "Crispy bread with garlic butter topping",
+    "category": "others"
+  },
+  {
+    "id": 22,
+    "name": "Chocolate Cookie",
+    "price": 60,
+    "image": "https://sallysbakingaddiction.com/wp-content/uploads/2013/05/classic-chocolate-chip-cookies.jpg",
+    "description": "Freshly baked chocolate chip cookie",
+    "category": "others"
+  }
+]
